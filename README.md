@@ -4,4 +4,9 @@ This repository is for QMK firmware (ISO layout), for the "DZ60" from Bangood. L
 
 ![Download](https://github.com/JamesKni/NotDZ60/releases/tag/1.0)
 
+Build and install from source
+```
+make kb:default:dfu
+```
+
 ![Picture of PCB](https://i.imgur.com/unbAk6w.jpg[/IMG)
